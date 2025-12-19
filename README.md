@@ -40,7 +40,7 @@ Users can select one learning module at a time:
 Each module launches a dedicated AI mentor interface tailored specifically to that domain.
 
 # Technical Architecture
- Backend Logic
+## Backend Logic
 
 Prompt templates per module
 
@@ -50,7 +50,7 @@ Session-based conversation memory
 
 Google Gemini LLM invocation via LangChain
 
- Frontend
+## Frontend
 
 Streamlit UI
 
